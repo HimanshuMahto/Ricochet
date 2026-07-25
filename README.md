@@ -1,4 +1,4 @@
-# Ricochet
+# [Ricochet](https://github.com/HimanshuMahto/Ricochet)
 
 **A lightweight caching reverse-proxy server, built with Spring Boot.**
 
