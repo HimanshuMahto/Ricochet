@@ -1,5 +1,7 @@
 # [Ricochet](https://github.com/HimanshuMahto/Ricochet)
 
+Project Url: https://github.com/HimanshuMahto/Ricochet
+
 **A lightweight caching reverse-proxy server, built with Spring Boot.**
 
 Like its namesake, Ricochet bounces your request off an origin server and straight back — fast. It sits in front of any origin, forwards incoming requests to it, and **caches the responses**. Repeat requests are served instantly from the cache instead of hitting the origin again — and every response tells you whether it came from the cache (`X-Cache: HIT`) or the origin (`X-Cache: MISS`).
