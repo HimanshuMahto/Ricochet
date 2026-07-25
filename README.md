@@ -1,6 +1,6 @@
 # [Ricochet](https://github.com/HimanshuMahto/Ricochet)
 
-Project Url: https://github.com/HimanshuMahto/Ricochet
+Project Url: https://roadmap.sh/projects/caching-server
 
 **A lightweight caching reverse-proxy server, built with Spring Boot.**
 
