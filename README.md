@@ -1,4 +1,4 @@
-# [Ricochet](https://github.com/HimanshuMahto/Ricochet)
+# Ricochet
 
 Project Url: https://roadmap.sh/projects/caching-server
 
